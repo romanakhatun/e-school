@@ -8,7 +8,4 @@
 
 ### Technology Used:
     HTML5, CSS3, Bootstrap
-
-<br />
-
 ### [Preview Project](romanakhatun.github.io/e-school)
